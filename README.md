@@ -1,4 +1,3 @@
-Add files via upload
 # US Road Network Analysis Using Graph Databases (Neo4j)
 
 ## Project Overview
